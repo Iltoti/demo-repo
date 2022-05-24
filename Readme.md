@@ -1,4 +1,4 @@
-Text text text
+Text text
 
 Experience
 
